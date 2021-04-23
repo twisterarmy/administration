@@ -1,5 +1,5 @@
 # administration
 
-official reglament will be published here after accepting it by the core team
+Organization documents
 
-[draft](https://github.com/twisterarmy/administration/wiki/Twister-Army-Statute-(Draft))
+[drafts](https://github.com/twisterarmy/administration/wiki)
